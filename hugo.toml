@@ -1,0 +1,38 @@
+baseURL = 'https://blog.lucagoc.fr/'
+locale = 'en-us'
+title = 'blog@lucagoc.fr'
+[module]
+  [[module.imports]]
+    path = 'github.com/lucagoc/hugo-theme-monoblack'
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[markup]
+  [markup.highlight]
+    style = 'github-dark'
+    noClasses = true
+    guessSyntax = true
+
+[params]
+  author = 'lucagoc'
+  description = ''
+  accentColor = 'random'
+  terminalUser = 'blog'
+  terminalHost = 'lucagoc.fr'
+  showReadingTime = true
+
+  [params.giscus]
+    enable = true
+    repo = 'username/repository'
+    repoId = 'R_...'
+    category = 'General'
+    categoryId = 'DIC_...'
+    mapping = 'pathname'
+    strict = '0'
+    reactionsEnabled = '1'
+    emitMetadata = '0'
+    inputPosition = 'top'
+    theme = 'transparent_dark'
+    lang = 'en'
+    lazy = true
