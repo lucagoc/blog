@@ -24,15 +24,15 @@ title = 'blog@lucagoc.fr'
 
   [params.giscus]
     enable = true
-    repo = 'username/repository'
-    repoId = 'R_...'
-    category = 'General'
-    categoryId = 'DIC_...'
+    repo = 'lucagoc/blog'
+    repoId = 'R_kgDOUWclQw'
+    category = 'Comments'
+    categoryId = 'DIC_kwDOUWclQ84DFYj1'
     mapping = 'pathname'
-    strict = '0'
+    strict = '1'
     reactionsEnabled = '1'
     emitMetadata = '0'
-    inputPosition = 'top'
-    theme = 'transparent_dark'
+    inputPosition = 'bottom'
+    theme = 'preferred_color_scheme'
     lang = 'en'
     lazy = true
