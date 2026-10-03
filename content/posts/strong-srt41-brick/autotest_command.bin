@@ -1,0 +1,4 @@
+reset_system
+#showSystemInfo
+#checkKeyStatus
+#update -o OTA-HP4CEX5M-user-24.12.91.47.zip
