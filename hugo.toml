@@ -16,6 +16,8 @@ title = 'blog@lucagoc.fr'
 
 [params]
   author = 'lucagoc'
+  github = 'https://github.com/lucagoc'
+  kofi = 'https://ko-fi.com/lucagoc'
   description = ''
   accentColor = 'random'
   terminalUser = 'blog'
