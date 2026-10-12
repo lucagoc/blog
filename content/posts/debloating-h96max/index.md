@@ -1,4 +1,11 @@
-# Cheap Chinese TV Boxes: Reverse Engineering and Cleaning
+---
+title: "Cheap Chinese TV Boxes: Reverse Engineering and Cleanin"
+date: 2025-10-12
+draft: false
+description: "Deep dive in cheap software"
+tags: ["Android", "Allwinner", "Root", "Hack"]
+featured: true
+---
 
 ![](featured.jpg)
 
