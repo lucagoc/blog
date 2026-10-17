@@ -1,5 +1,5 @@
 ---
-title: "Cheap Chinese TV Boxes: Reverse Engineering and Cleanin"
+title: "Cheap Chinese TV Boxes: Reverse Engineering and Cleaning"
 date: 2025-10-12
 draft: false
 description: "Deep dive in cheap software"

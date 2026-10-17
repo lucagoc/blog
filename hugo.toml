@@ -1,9 +1,11 @@
 baseURL = 'https://blog.lucagoc.fr/'
 locale = 'en-us'
 title = 'blog@lucagoc.fr'
+
 [module]
   [[module.imports]]
     path = 'github.com/lucagoc/hugo-theme-monoblack'
+#theme = "hugo-theme-monoblack"
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
